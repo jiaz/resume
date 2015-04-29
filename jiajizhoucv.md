@@ -8,6 +8,9 @@
 
 ### Feb. 2015 - Now : Software Engineer, Hulu LLC.
 
+> I currently work in Content Metadata Service team. I mainly work on an orchestration service written in Nodejs to serve our client apps metadata of the shows and videos.
+> 
+> The most significant work I have done is optimizing system performance and setting up capacity planning tools and processes. I helped our team to understand the performance characteristics of the system better and identified several performance bottlenecks in the system to increase whole system capacity by 50% without significant architecture change. I helped the team to setup a more reasonable way to do load testing and capacity planning.
 
 ### Apr. 2014 - Oct. 2014 : CTO & Dev Manager, miHoYo, Co. Ltd.
 
@@ -15,7 +18,7 @@
 > 
 > As Dev Manager, I set up release schedule, drive SCRUM meetings, make project plans and communicate with external partners to enable our game in global markets. As CTO I optimized the development process by introducing Git to replace the old version control system, building up an automated testing framework for backend service, setting up continuous integration to produce official releases, optimizing system architecture to improve performance.
 > 
-> I was also a developer and wrote code to implement game features, such as Facebook Sharing, in-game chatting and a lot of global market requirements.
+> I was also a developer and wrote code to implement game features, such as in-game chatting and a lot of global market requirements.
 
 ### Jan. 2014 - Apr. 2014 : Senior Software Engineer, eBay Inc.
 
@@ -34,19 +37,21 @@
 - Zero Downtime Oracle to MySQL data migration. I wrote the migration tool and designed the process to make it zero data loss and zero downtime for TB scale data.
 - Billing data encryption/decryption service design and implementation. I designed and implemented the crypto service and the process of data migration.
 
-> I was awarded the FY13 technical rock star because of the success of the migration project which increase the total capacity of the backend service by more than 8 times.
+> I was awarded the FY13 technical rock star because of the success of the migration project.
 
 ### Mar. 2011 - May 2012 : SDE, Microsoft
 
 > I joined Microsoft Commerce Platform after graduation. The projects I worked on:
 > 
-- Windows Azure billing account migration. Windows Azure was originally on another payment platform in Microsoft, we migrated the whole billing account data from the original platform to the Commerce Platform and switched the users to our platform. I was one of the main contributors in the migration project. I helped the catalog team to understand the catalog model and subscription model discrepancies and implemented the subscription related data migration scripts.
-- Batch job framework. In order to unify the existing batch jobs, we started a project to create a single batch job framework which fits all the existing jobs and provides easier configuration to run job distributed across a cluster. I designed and implemented the job configuration and execution flow and several core facilities in the framework.
-- Scale-Out-Unit project. In order to make the system more scalable, we proposed a so called SOU architecture. I contributed to Account Migration Service, which can move one account from one database partition to another and make database more balanced.
+- Windows Azure billing account migration. I was one of the main contributors in the migration project. I helped the catalog team to understand the catalog model and subscription model discrepancies and implemented the subscription related data migration scripts.
+- Batch job framework. I designed and implemented the job configuration and execution flow and several core facilities in the framework.
+- Scale-Out-Unit project. I contributed to Account Migration Service, which can move one account from one database partition to another and make database load more balanced.
+>
+> I was one of the top performers in the team and get promoted in the first year.
 
 ## Dev Skills
 
-- Most used langauges Java, Javascript, C#, Python.
+- Most used langauges: Java, Javascript, C#, Python.
 - Experienced in Java technologies such as Spring, OSGi, Hibernate, JUnit, maven, etc.
 - Experienced in Nodejs web service development.
 - Experienced in WCF based web service development.
