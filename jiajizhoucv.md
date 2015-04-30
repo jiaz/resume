@@ -63,13 +63,13 @@ Java
 :   Experienced in Java technologies such as Spring, OSGi, Hibernate, JUnit, maven, etc.
 
 Javascript
-:   Experienced in Nodejs web service development.
+:   Experienced in production quality Nodejs web service development.
 
 C#
-:   Experienced in WCF web service development.
+:   Experienced in production quality WCF web service development.
 
 Relational DB
-:   Solid understanding of Relational Databases such as MySQL, Oracle, SQLServer.
+:   Solid understanding of Relational Databases such as MySQL and SQLServer.
 
 NoSQL
 :   Some experience with NoSQL databases such as Redis, MongoDB.
@@ -77,10 +77,10 @@ NoSQL
 DevOps
 :   Some DevOps experience on Linux environment.
 
-    MySQL admin experience.
+    Managed a medium size MySQL cluster of 144 database servers.
 
 General
-:   Good engineering skills including writing extensible, testable code.
+:   Excellent engineering skills including writing extensible, testable code.
 
 ## Education
 
