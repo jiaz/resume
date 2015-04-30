@@ -92,7 +92,7 @@ General
 09.2004 - 07.2008
 :   Bachelor in Computer Science in Shanghai Jiao Tong University
 
-----
+&nbsp;
 
 > 425-243-2576 & jiaji.zh@gmail.com
 > 

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build:html": "pandoc --standalone -c style.css --from markdown --to html -o index.html jiajizhoucv.md",
+    "build:pdf": "pandoc --standalone -c style.css --from markdown --to pdf -o jiajizhoucv.pdf jiajizhoucv.md",
     "build": "npm run build:html"
   },
   "repository": {
