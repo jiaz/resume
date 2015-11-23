@@ -19,9 +19,9 @@ Since 02.2015
 04.2014 - 10.2014
 :   #### CTO & Dev Manager, miHoYo, Co. Ltd.
 
-    miHoYo is a mobile game company established in 2012. I joined the team to help the team to grow and make development process more reliable. We created one of the most popular 2.5D action games in China called “The End of School 2” (or “Guns Girl” if you Google it), which was the 1st Top Paid game and 9th Top Grossing game in AppStore China. 
+    miHoYo is a mobile game company established in 2012. I joined the team to help the team to grow and make development process more reliable. We created one of the most popular 2.5D shooting games in China called “Guns Girl”, which was the 1st Top Paid game and 9th Top Grossing game in AppStore China.
 
-    As Dev Manager, I set up release schedule, drive SCRUM meetings, make project plans and communicate with external partners to enable our game in global markets. As CTO I optimized the development process by introducing Git to replace the old version control system, building up an automated testing framework for backend service, setting up continuous integration to produce official releases, optimizing system architecture to improve performance.
+    As Dev Manager, I set up release schedule, drive SCRUM meetings, make project plans and communicate with external partners. As CTO I optimized the development process by introducing Git to replace the old version control system, building up an automated testing framework for backend service, setting up continuous integration to produce official releases, optimizing system architecture to improve performance.
 
     I was also a developer and wrote code to implement game features, such as in-game chatting and a lot of global market integration requirements.
 
@@ -30,7 +30,7 @@ Since 02.2015
 
     I joined PaymentApps team in Managed Marketplace. PaymentApps team owns a part of the whole checkout process and some payment related integration services.
     
-    I contributed to the design and implementation of risk challenge system in the “progressive checkout” project. I designed the API interface and sequence diagram based on the architecture document and communicated with checkout team to integrate the service into checkout flow. I introduced AJAX + RESTful API style implementation to the team. I also introduced responsive web UI implementation to the team. I was also the code review master in the team to drive code review to achieve better code quality.
+    I contributed to the design and implementation of risk challenge system in the “progressive checkout” project. I designed the API interface and sequence diagram based on the architecture document and communicated with checkout team to integrate the service into checkout flow. I introduced AJAX + RESTful API style implementation to the team to replace the original POST back style experience. I also introduced responsive web UI implementation to the team. I was also the code review master in the team to drive code review to achieve better code quality.
 
 05.2012 - 01.2014
 :   #### Software Developer III, Electronic Arts
@@ -51,8 +51,8 @@ Since 02.2015
 
     I joined Microsoft Commerce Platform after graduation. The projects I worked on:
 
-    - Catalog management tool. I was the owner of the whole catalog management tool which was a traditional windows form application which talks to a database to manage all products and services sold on Microsoft Commerce Platform.
-    - Windows Azure billing account migration. We migrated the windows Azure billing account from an external vendor provided service to our own platform. I was one of the main contributors in the migration project. The migration is extremely challenging due to two systems' radical differences on fundamental concepts such as billing and subscription cycle and bad legacy data. I helped the catalog team to understand the catalog and subscription model discrepancies and implemented the subscription related data migration code.
+    - Catalog management tool. I was the owner of the whole catalog management tool which was a traditional windows form application which talks to a database to manage all products and offerings sold on Microsoft Commerce Platform.
+    - Windows Azure billing account migration. We migrated Azure billing accounts from an external vendor provided billing service to our own platform. I was one of the main contributors in the migration project. The migration is extremely challenging due to two systems' radical differences on fundamental concepts such as offering model, billing and subscription cycle and bad legacy data. I helped the catalog team to understand the catalog and subscription model discrepancies and implemented the subscription related data migration code.
     - Batch job framework. We designed a batch framework to consolidate varies of batch executing jobs. I designed and implemented the job configuration and execution flow and several core facilities in the framework.
     - Scale-Out-Unit project. I contributed to Account Migration Service, which was used to move one entire account data from one database partition to another. The account migration service is the key to the horizontal scalability.
 
@@ -77,7 +77,7 @@ Relational DB
 NoSQL
 :   Experienced in NoSQL databases such as Redis, Memcached, MongoDB.
 
-Cloud Services:
+Cloud Services
 :   Familiar with AWS, Microsoft Azure related technologies.
 
 DBA
@@ -85,7 +85,8 @@ DBA
 
 General
 :   Excellent engineering skills including writing extensible, testable code.
-    Always learning, always try to find better ways to achieve goals.
+    
+    Be always learning, always trying to find better ways to achieve goals.
 
 ## Education
 
