@@ -1,27 +1,29 @@
 # Jiaji Zhou
 
-> Experienced in large scale service oriented system development.
-> Experienced in mobile game development and managed a small team in a startup company.
+> Experienced in large scale service oriented system development with e-commerce background. Managed a small dev team in a startup company.
 
-## Working Experience
+## Experiences
 
 ----
 
 Since 02.2015
 :   #### Software Engineer, Hulu LLC.
 
-    I currently work in Content Metadata Service team. I mainly work on an orchestration service written in Nodejs to serve our client apps metadata of the shows and videos.
+    I currently work in Content Metadata Service team. I mainly work on an orchestration web service written in Nodejs to serve Hulu apps metadata of the shows and videos.
 
-    The most significant work I have done including optimizing system performance and setting up capacity planning tools and processes. I helped our team to understand the performance characteristics of the system better and identified several performance bottlenecks in the system to increase whole system capacity by 50% without significant architecture change. I helped the team to setup a more reasonable way to do load testing and capacity planning.
+    - I helped our team to understand the performance characteristics of the system better and identified several bottlenecks in the system to decrease our 99th percentile latency by 20%.
+    - I implemented a distributed broadcast system to broadcast system configuration changes without the need to restart services which enables the team to do more flexible dynamic controlling on the system such as rolling out new features on demond.
+    - I introduced several new concepts of new javascript techniques such as Promise to the team to improve the code quality and make code easier to test.
+    - I also designed a system to enable immediate video availablity which manages several cache layer's behavior to enable our content team to do immediate content update without impacting the system's performance.
 
 04.2014 - 10.2014
 :   #### CTO & Dev Manager, miHoYo, Co. Ltd.
 
-    miHoYo is a mobile game start-up established in 2012. I joined the team to help the team to grow and make development process more reliable. We created one of the most popular 2D action games in China called “The End of School 2” (or “Guns Girl” if you Google it), which was the 1st Top Paid game and 9th Top Grossing game in AppStore China. 
+    miHoYo is a mobile game company established in 2012. I joined the team to help the team to grow and make development process more reliable. We created one of the most popular 2.5D action games in China called “The End of School 2” (or “Guns Girl” if you Google it), which was the 1st Top Paid game and 9th Top Grossing game in AppStore China. 
 
     As Dev Manager, I set up release schedule, drive SCRUM meetings, make project plans and communicate with external partners to enable our game in global markets. As CTO I optimized the development process by introducing Git to replace the old version control system, building up an automated testing framework for backend service, setting up continuous integration to produce official releases, optimizing system architecture to improve performance.
 
-    I was also a developer and wrote code to implement game features, such as in-game chatting and a lot of global market requirements.
+    I was also a developer and wrote code to implement game features, such as in-game chatting and a lot of global market integration requirements.
 
 01.2014 - 04.2014
 :   #### Senior Software Engineer, eBay Inc.
@@ -49,9 +51,10 @@ Since 02.2015
 
     I joined Microsoft Commerce Platform after graduation. The projects I worked on:
 
-    - Windows Azure billing account migration. I was one of the main contributors in the migration project. I helped the catalog team to understand the catalog model and subscription model discrepancies and implemented the subscription related data migration scripts.
-    - Batch job framework. I designed and implemented the job configuration and execution flow and several core facilities in the framework.
-    - Scale-Out-Unit project. I contributed to Account Migration Service, which can move one account from one database partition to another and make database load more balanced.
+    - Catalog management tool. I was the owner of the whole catalog management tool which was a traditional windows form application which talks to a database to manage all products and services sold on Microsoft Commerce Platform.
+    - Windows Azure billing account migration. We migrated the windows Azure billing account from an external vendor provided service to our own platform. I was one of the main contributors in the migration project. The migration is extremely challenging due to two systems' radical differences on fundamental concepts such as billing and subscription cycle and bad legacy data. I helped the catalog team to understand the catalog and subscription model discrepancies and implemented the subscription related data migration code.
+    - Batch job framework. We designed a batch framework to consolidate varies of batch executing jobs. I designed and implemented the job configuration and execution flow and several core facilities in the framework.
+    - Scale-Out-Unit project. I contributed to Account Migration Service, which was used to move one entire account data from one database partition to another. The account migration service is the key to the horizontal scalability.
 
     I was one of the top performers in the team and get promoted in the first year.
 
@@ -60,27 +63,29 @@ Since 02.2015
 ----
 
 Java
-:   Experienced in Java technologies such as Spring, OSGi, Hibernate, JUnit, maven, etc.
+:   Solid experience in web service development on Java & JVM technologies.
 
-Javascript
-:   Experienced in production quality Nodejs web service development.
+Nodejs
+:   Solid experience in Nodejs web service development.
 
-C#
-:   Experienced in production quality WCF web service development.
+Other Languages
+:   Python, Ruby, C#, C++, Go, Scala, Objective-C.
 
 Relational DB
-:   Solid understanding of Relational Databases such as MySQL and SQLServer.
+:   Solid understanding of MySQL, experience with Oracle and SQLServer.
 
 NoSQL
-:   Some experience with NoSQL databases such as Redis, MongoDB.
+:   Experienced in NoSQL databases such as Redis, Memcached, MongoDB.
 
-DevOps
-:   Some DevOps experience on Linux environment.
+Cloud Services:
+:   Familiar with AWS, Microsoft Azure related technologies.
 
-    Managed a medium size MySQL cluster of 144 database servers.
+DBA
+:   Managed a medium size MySQL cluster of 144 database servers.
 
 General
 :   Excellent engineering skills including writing extensible, testable code.
+    Always learning, always try to find better ways to achieve goals.
 
 ## Education
 
